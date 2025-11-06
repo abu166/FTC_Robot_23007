@@ -1,6 +1,6 @@
 # FTC Robot 23007 - 3D Model
 
-![Robot Preview](RedColored3DRobot.png)
+![Robot Preview](3D Robot Final Results/RedColored3DRobot.png)
 
 ## Overview
 This repository contains the 3D model of the competition robot designed for **FIRST Tech Challenge Team 23007**. The model was created using Blender and represents our team's robot design for the current competition season.
